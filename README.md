@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ---
 
-- If write the quantity and click on execute Buy. Then order will be executed.
+- Write the quantity and click on execute Buy. Then order will be executed.
 - <img width="1920" height="884" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/bfc2b91e-75f9-444d-bf30-bbcf438af87f" />
 
 
