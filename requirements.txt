@@ -1,0 +1,11 @@
+streamlit
+pandas
+python-dotenv
+yfinance
+transformers
+torch
+langchain
+langchain_google_genai
+alpaca_trade_api
+langchain-community
+websockets = 15.0.1

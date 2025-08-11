@@ -1,0 +1,22 @@
+us_stocks = {
+    "Apple Inc.": "AAPL",
+    "Microsoft Corporation": "MSFT",
+    "Amazon.com Inc.": "AMZN",
+    "Alphabet Inc. (Class A)": "GOOGL",
+    "Alphabet Inc. (Class C)": "GOOG",
+    "Tesla Inc.": "TSLA",
+    "Meta Platforms Inc.": "META",
+    "NVIDIA Corporation": "NVDA",
+    "Netflix Inc.": "NFLX",
+    "Berkshire Hathaway Inc. (Class B)": "BRK.B",
+    "Johnson & Johnson": "JNJ",
+    "JPMorgan Chase & Co.": "JPM",
+    "Visa Inc.": "V",
+    "Walmart Inc.": "WMT",
+    "The Coca-Cola Company": "KO",
+    "PepsiCo Inc.": "PEP",
+    "Exxon Mobil Corporation": "XOM",
+    "Pfizer Inc.": "PFE",
+    "Procter & Gamble Co.": "PG",
+    "UnitedHealth Group Incorporated": "UNH"
+}
