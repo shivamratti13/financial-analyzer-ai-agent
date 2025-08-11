@@ -73,3 +73,40 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+# Project Demonstration
+
+- Select the company from the given list.
+<img width="1920" height="881" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/531c1f0d-d0da-4e4e-9bfe-7d33b800705f" />
+
+---
+
+- The model is fetching and showing recent stock price and top 5 relevent news related to the company.
+- <img width="1920" height="897" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/235560af-b03f-4f35-97a9-58bf51bb306e" />
+
+---
+
+- The Agent is now thinking and generating a Report.
+- <img width="1920" height="892" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/d6a0db27-fd18-400e-966e-9ad38fae19b7" />
+
+---
+
+- The report is displayed.
+-<img width="1920" height="869" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/92a18bc4-3dd6-4d4e-b575-0df1abfaf6e2" />
+
+---
+
+- The agent is now giving us an option to buy or sell the given stock based on the report results ie. **Strong Buy**, **Monitor**, **Avoid**.
+- <img width="1920" height="862" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/57dc58e7-f1d0-4eff-b6ac-0824f4cb9388" />
+
+---
+
+- If write the quantity and click on execute Buy. Then order will be executed.
+- <img width="1920" height="884" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/bfc2b91e-75f9-444d-bf30-bbcf438af87f" />
+
+
+
+
+
+
